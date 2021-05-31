@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/bstavroulakis/vue-spa.svg?branch=master)](https://travis-ci.org/bstavroulakis/vue-spa)
+[![Build Status](https://travis-ci.com/kmcoderepo/vueapp.svg?branch=main)](https://travis-ci.com/kmcoderepo/vueapp)
