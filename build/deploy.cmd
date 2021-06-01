@@ -11,4 +11,4 @@ xcopy /d %DEPLOYMENT_SOURCE%\package.json %DEPLOYMENT_TARGET%\package.json*
 xcopy /d %DEPLOYMENT_SOURCE%\build\web.config %DEPLOYMENT_TARGET%\web.config*
 
 call npm install --only=production
-echo Deployed.
+echo Deployed in azure.
